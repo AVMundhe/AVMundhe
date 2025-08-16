@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋, I'm Aditya Mundhe</h1>
+<h1 align="center">Hey 👋, I'm 💼 Aditya for precision | ❤️‍🔥 Adi for progression
+</h1>
 <h3 align="center">💻 Computer Science Engineer | Java Developer | Lifelong Learner ✨</h3>
 
 <p align="center">
