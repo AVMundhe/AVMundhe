@@ -8,34 +8,79 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Second-year **Computer Science Engineering** student (2024–28)  
+- 🎓 Second-year **Computer Science Engineering** student (2023–27)  
 - 💻 Focusing on **Java** (core + problem solving)  
 - 🚀 Exploring **projects, open-source, and clean code practices**  
 - 🤖 Curious about **AI, IoT, and practical engineering**  
-- ⚡ I believe in *learning by building* and *growing by sharing*
+- ⚡ I believe in *learning by building* and *growing by Implementing*
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,javascript,git,github,vscode,idea,linux,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,javascript,git,github,vscode,mysql&theme=dark" />
 </p>
 
 - **Languages:** Java, Python (basics), C/C++  
 - **Tools:** Git & GitHub, VS Code, IntelliJ IDEA, Linux  
-- **Interests:** DSA, backend fundamentals, software craftsmanship  
+- **Interests:** DSA, IOT  
 
 ---
 
-## 🗂️ Projects (Year-wise)
+## 🛠️ Projects
 
-### 📚 Second Year (2024–25)
-- 🔹 [Object-Oriented-Programming](https://github.com/AVMundhe/Object-Oriented-Programming)  
-- 🔹 [ADSL — Applied Data Structures & Algorithm Lab](https://github.com/AVMundhe/ADSL---Applied-Data-Structures-and-Algorithm-Lab)  
-- 🔹 [Data-Structure-Problem-Solving](https://github.com/AVMundhe/Data-Structure-Problem-Solving)  
-- 🔹 [Bank (Mini Project)](https://github.com/AVMundhe/Bank)
+<div align="center">
 
-> *(More coming soon — practicing Java, algorithms, and neat project structure.)*
+<!-- Project 1 -->
+<div style="border:1px solid #1f1f1f; border-radius:12px; padding:16px; margin-bottom:16px; width:80%;">
+  <h3>🌍 7 Wonders of the World</h3>
+  <p>An interactive project showcasing historical marvels with engaging visuals.</p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" />
+  </p>
+</div>
+
+<!-- Project 2 -->
+<div style="border:1px solid #1f1f1f; border-radius:12px; padding:16px; margin-bottom:16px; width:80%;">
+  <h3>💨 IoT-based Smart Ventilation System</h3>
+  <p>Designed an intelligent system for airflow optimization; published a research paper.</p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="28" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="28" />
+    <img src="https://cdn.simpleicons.org/tinkercad/F7693C" alt="Tinkercad" height="28"/></a>
+
+  </p>
+</div>
+
+<!-- Project 3 -->
+<div style="border:1px solid #1f1f1f; border-radius:12px; padding:16px; margin-bottom:16px; width:80%;">
+  <h3>💡 Smart Lighting with Bill Calculation</h3>
+  <p>Automated lighting control integrated with real-time electricity consumption tracking.</p>
+  <p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="28" />
+   <img src="https://cdn.simpleicons.org/tinkercad/F7693C" alt="Tinkercad" height="28"/></a>
+ 
+  </p>
+</div>
+
+<!-- Project 4 -->
+<div style="border:1px solid #1f1f1f; border-radius:12px; padding:16px; margin-bottom:16px; width:80%;">
+  <h3>🏋️ Python Fitness App</h3>
+  <p>Built a simple fitness tracker app with BMI calculation and workout suggestions.</p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
+  </p>
+</div>
+
+</div>
+
+
+
+
+> *(More coming soon — practicing Java, algorithms, Development and neat project structure.)*
 
 ---
 
