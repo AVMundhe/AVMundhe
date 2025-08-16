@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science Engineer | Java Developer | Lifelong Learner ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer+💻;Java+Developer+🚀;Problem+Solver+🧠;Hackathon+%26+Ideathon+Enthusiast+🌍;Always+Learning+New+Things+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer+💻;Problem+Solver+🧠;Hackathon+%26+Ideathon+Enthusiast+🌍;Always+Learning+New+Things+✨" />
 </p>
 
 ---
@@ -96,7 +96,7 @@
 
 ---
 
-## 📈 Contribution Activity (cool alternative to snake)
+## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AVMundhe&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
