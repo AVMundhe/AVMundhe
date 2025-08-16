@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Second-year **Computer Science Engineering** student (2023–27)  
+- 🎓 **Computer Science Engineering** student (2023–27)  
 - 💻 Focusing on **Java** (core + problem solving)  
 - 🚀 Exploring **projects, open-source, and clean code practices**  
 - 🤖 Curious about **AI, IoT, and practical engineering**  
