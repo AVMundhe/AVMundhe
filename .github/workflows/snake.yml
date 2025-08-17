@@ -1,29 +1,35 @@
+# GitHub Action for generating a contribution graph with a snake eating the contributions
 name: Generate Snake
 
 on:
-  schedule: # every 12 hours
+  # Run automatically every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
+  
+  # Allows to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: AVMundhe
+          # Your GitHub username. This will be automatically populated by the action.
+          github_user_name: ${{ github.repository_owner }}
+          
+          # The output files. You can create multiple animations with different looks.
+          # The file names must end with .svg, .gif, or .png.
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "docs: update snake animation"
+          file_pattern: dist/*.{svg,gif}
