@@ -3,8 +3,8 @@
 </h1>
 
 <h2 align="center">
-💼 Aditya — for Professionals & Precision <br>
-❤️‍🔥 Adi — for Progression & Collaboration
+💼 Aditya :— for Professionals & Precision <br>
+❤️‍🔥 Adi :— for Progression & Collaboration
 </h2>
 
 <h3 align="center">💻 Computer Science Engineer | Java Developer | Lifelong Learner ✨</h3>
@@ -124,7 +124,7 @@
 ---
 
 <p align="center">
-  ✨ <strong>“Code is like art — the cleaner it is, the more powerful it becomes.”</strong> ✨
+  ✨ <strong>“Code is like art, the cleaner it is, the more powerful it becomes.”</strong> ✨
 </p>
 
 
