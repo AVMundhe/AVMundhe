@@ -103,7 +103,8 @@
 </p>
 
 ---
-![snake animation](https://github.com/AVMundhe/AVMundhe/blob/output/snake.svg)
+### 🐍 Snake eating my contributions
+![snake animation](https://raw.githubusercontent.com/AVMundhe/AVMundhe/output/snake.svg)
 
 ## 📈 Contribution Activity
 <p align="center">
