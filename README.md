@@ -124,5 +124,7 @@
 ---
 
 <p align="center">
-  ✨ *“Code is like art — the cleaner it is, the more powerful it becomes.”* ✨
+  ✨ <strong>“Code is like art — the cleaner it is, the more powerful it becomes.”</strong> ✨
 </p>
+
+
