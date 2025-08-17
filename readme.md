@@ -105,7 +105,9 @@
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/AVMundhe/AVMundhe/main/dist/ocean.gif)
+
 ![Snake animation](https://raw.githubusercontent.com/AVMundhe/AVMundhe/main/dist/github-contribution-grid-snake.svg)
+
 ## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AVMundhe&theme=react-dark&hide_border=true" alt="activity graph"/>
