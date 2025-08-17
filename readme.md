@@ -103,8 +103,9 @@
 </p>
 
 ---
-![GitHub Snake Light](https://raw.githubusercontent.com/AVMundhe/AVMundhe/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/AVMundhe/AVMundhe/output/snake.svg#gh-dark-mode-only)
+### 🐍 Watch the snake eat my contributions
+![Snake animation](https://github.com/AVMundhe/AVMundhe/blob/output/snake.svg)
+
 
 ## 📈 Contribution Activity
 <p align="center">
