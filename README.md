@@ -2,11 +2,6 @@
 👋  Hello, I'm <strong>Aditya V. Mundhe</strong>  
 </h1>
 
-<h2 align="center">
-💼 Aditya :— for Professionals & Precision <br>
-❤️‍🔥 Adi :— for Progression & Collaboration
-</h2>
-
 <h3 align="center">💻 Computer Science Engineer | Java Developer | Lifelong Learner ✨</h3>
 
 <p align="center">
